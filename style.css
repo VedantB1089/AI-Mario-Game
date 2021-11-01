@@ -1,0 +1,44 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#img{
+    width: 100%;
+}
+
+#canvas{
+    text-align: center;
+    width: 100%;
+    border: 2px solid black;
+}
+.instruction_img{
+    display: inline-block;
+    width: 50%;
+}
+#credits{
+    position: fixed;
+    bottom: 0px;
+    background-color: thistle;
+    width: 100%;
+    text-align: center;
+    line-height: 4;
+}
+canvas{
+    width: 100%;
+}
+
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    padding: 25px;
+}
